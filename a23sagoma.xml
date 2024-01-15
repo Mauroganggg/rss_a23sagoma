@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mi primer Feed a23sagoma</title>
+    <link>https://www.redeszone.net/</link>
+    <description>Últimas noticias sobre telecomunicaciones y redes</description>
+    <language>es</language>
+    <lastBuildDate>Thu, 11 Jan 2024 13:05:36 +0000</lastBuildDate>
+    <!-- Etiquetas opcionales -->
+    <category>Noticias</category>
+    <ttl>120</ttl>
+    <image>
+       <url>https://www.redeszone.net/app/uploads-redeszone.net/2019/09/cropped-redeszone-32x32.png</url>
+      <title>Mi primer Feed a23sagoma</title>
+      <link>https://www.redeszone.net/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    <managingEditor>paquitoelchocolatero@gmail.com (Paquito el chocolatero)</managingEditor>
+    <webMaster>paquitoelchocolatero@gmail.com (Paquito el chocolatero)</webMaster>
+    <category>Informática</category>
+    <generator>https://wordpress.org/?v=6.4.2</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+      <skipHours>
+        <hour>1</hour>
+        <hour>15</hour>
+        <hour>22</hour>
+      </skipHours>
+    <!-- Primer item -->
+    <item>
+      <title>Lo nunca visto, D-Link recomienda que no uses uno de sus routers por un fallo de seguridad</title>
+      <link>https://www.redeszone.net/noticias/seguridad/router-d-link-dir-605l-vulnerabilidad/</link>
+      <description>Vulnerabilidad detectada en los routers D-Link</description>
+      <!-- Etiquetas opcionales -->
+      <comments>https://www.redeszone.net/noticias/seguridad/router-d-link-dir-605l-vulnerabilidad/#respond</comments>
+      <source url="https://feeds.feedburner.com/redeszone/redes">Fuente Externa</source>
+    </item>
+
+    <!-- Segundo item-->
+    <item>
+      <title>Prueba estos antivirus gratuitos y rápidos para analizar tu equipo sin instalar nada</title>
+      <link>https://www.redeszone.net/noticias/seguridad/antivirus-gratuitos-rapidos-online/</link>
+      <description>Antivirus rápidos y gratuitos para poder analizar tu equipo sin instalar nada</description>
+      <!-- Etiquetas opcionales-->
+      <comments>https://www.redeszone.net/noticias/seguridad/antivirus-gratuitos-rapidos-online/feed/</comments>
+      <source url="https://feeds.feedburner.com/redeszone/redes">Fuente Externa</source>
+    </item>
+    <!-- Tercer item-->
+    <item>
+      <title>Mejora el almacenamiento y crea copias de seguridad con estas memorias en oferta</title>
+      <link>https://www.redeszone.net/noticias/ofertas/amazon-varias-bazar-unidades-almacenamiento-0124/</link>
+      <description>Mejora el almacenamiento y crea copias de seguridad con estas memorias en oferta</description>
+      <!-- Etiquetas opcionales-->
+      <comments>https://www.redeszone.net/noticias/seguridad/antivirus-gratuitos-rapidos-online/feed/</comments>
+      <source url="https://feeds.feedburner.com/redeszone/redes">Fuente Externa</source>
+    </item>
+    <!-- Cuarto item-->
+    <item>
+      <title>¡Cuidado! Están usando YouTube para colar este peligroso malware; identifícalo</title>
+      <link>https://www.redeszone.net/noticias/seguridad/usan-youtube-colar-malware/</link>
+      <description>Malware usado en Youtube</description>
+      <!-- Etiquetas opcionales-->
+      <comments>https://www.redeszone.net/noticias/seguridad/usan-youtube-colar-malware/</comments>
+      <source url="https://feeds.feedburner.com/redeszone/redes">Fuente Externa</source>
+    </item>
+    <!-- Quinto item-->
+    <item>
+      <title>Análisis del ASUS RT-AX52, uno de los routers más baratos y con Wi-Fi 6</title>
+      <link>https://www.redeszone.net/analisis/routers/asus-rt-ax52-ax1800/</link>
+      <description>Malware usado en Youtube</description>
+      <!-- Etiquetas opcionales-->
+      <comments>https://www.redeszone.net/analisis/routers/asus-rt-ax52-ax1800/</comments>
+      <source url="https://feeds.feedburner.com/redeszone/redes">Fuente Externa</source>
+    </item>
+  </channel>
+</rss>
